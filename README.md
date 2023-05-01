@@ -1,5 +1,5 @@
 ### Hi there! 👋
-I am an aspiring software engineer with a great passion to build socially-responsible software and proven full-stack development skills.
+I am an aspiring designer-turned software engineer with a great passion to build socially-responsible software and proven full-stack development skills.
 <!--
 **hahapablo/hahapablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
